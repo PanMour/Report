@@ -46,6 +46,7 @@
 ### DRA tab (Dimensionality Reduction Algorithms)
 #### PCA plot Αποτελέσματα - Συμπεράσματα
 Αποτελέσματα:
+
 ![PCA_VIS picture](https://github.com/PanMour/Report/assets/115315282/26fe6ff8-924a-46e6-8926-38c396eb372b)
 
 Συμπεράσματα:
@@ -55,6 +56,7 @@
 
 #### t-SNE plot Αποτελέσματα - Συμπεράσματα
 Αποτελέσματα:
+
 ![T-SNE_VIS picture](https://github.com/PanMour/Report/assets/115315282/c846e6a6-8b18-4efc-bc27-93caa5910063)
 
 Συμπεράσματα:
@@ -66,6 +68,7 @@
 ### EDA tab (Exploratory Data Analysis)
 #### Histogram plot Αποτελέσματα - Συμπεράσματα
 Αποτελέσματα:
+
 ![Exploratory_Analysis picture](https://github.com/PanMour/Report/assets/115315282/549ed3c4-b3e7-4a81-a5dd-138999150e05)
 
 Συμπεράσματα:
@@ -75,6 +78,7 @@
 
 #### Density plot Αποτελέσματα - Συμπεράσματα
 Αποτελέσματα:
+
 ![Exploratory_Analysis picture_2](https://github.com/PanMour/Report/assets/115315282/ef222e5e-e093-420a-a8a5-13b69ce3427c)
 
 Συμπεράσματα:
@@ -84,6 +88,7 @@
 
 #### Boxplot plot Αποτελέσματα - Συμπεράσματα
 Αποτελέσματα:
+
 ![Exploratory_Analysis picture_3](https://github.com/PanMour/Report/assets/115315282/a8d9d4e0-f748-4e56-975b-d71f23435312)
 
 Συμπεράσματα:
